@@ -9,8 +9,8 @@
 	>
 
 <channel>
-	<title>googlecoincrypto</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>General &#8211; googlecoincrypto</title>
+	<atom:link href="/category/general/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Your homepage for CryptoCurrency Information</description>
 	<lastBuildDate>Thu, 16 Aug 2018 17:56:50 +0000</lastBuildDate>
@@ -21,7 +21,7 @@
 
 <image>
 	<url>/wp-content/uploads/2018/08/cropped-art-background-bitcoin-1263324-2-32x32.jpg</url>
-	<title>googlecoincrypto</title>
+	<title>General &#8211; googlecoincrypto</title>
 	<link></link>
 	<width>32</width>
 	<height>32</height>

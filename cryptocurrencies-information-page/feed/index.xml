@@ -7,11 +7,11 @@
 	
 	>
 <channel>
-	<title>Comments for googlecoincrypto</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<title>Comments on: What is cryptocurrency? Get rich with cryptocurrencies.</title>
+	<atom:link href="/cryptocurrencies-information-page/feed/" rel="self" type="application/rss+xml" />
+	<link>/cryptocurrencies-information-page/</link>
 	<description>Your homepage for CryptoCurrency Information</description>
-	<lastBuildDate>Thu, 16 Aug 2018 17:58:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Aug 2018 17:59:04 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
